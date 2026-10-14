@@ -264,3 +264,117 @@ Approve the following for Rakuten Tech Conference:
 5. **Reuse plan:** game assets travel to Rakuten Optimism, campus events, and internal BU roadshows for the following 12 months.
 
 If the ask is to pick a single, lower-cost format, the fallback recommendation is **Stamp Rally + Trading Card Deck**: it is the smallest-footprint, highest-throughput, lowest-staffing combination that still delivers a bilingual, physical, memorable experience aligned with Hanko CIS's value proposition.
+
+---
+
+## 8. Appendix A — Further creative formats to consider
+
+Section 3 covered the four strongest alternatives to Hanko Street. The brief invited *"any similar engaging way you can suggest"*, so this appendix lists additional formats that are credible for RTC. They are grouped by what they are best at — pick one or two to mix into the booth stack if a slot in §3 does not fit, or swap one in as the headline act if the audience or floor space changes.
+
+### 8.1 Culturally resonant formats (lean into Japan)
+
+**A1 — ハンコかるた / Hanko Karuta**
+Traditional Japanese karuta reimagined. A reader calls out a workflow scenario in Japanese (*"稟議書が3人の承認者を回り、1人が出張中…"*); 2–4 players race to slap the correct Hanko CIS **feature card** on the table. The person with the most cards at the end wins. Culturally native, bilingual-friendly (reader alternates JP/EN rounds), high clap-and-laugh factor. ~5 min/round, 2–4 players, 1 reader. Great complement to Hanko Street rather than a replacement.
+
+**A2 — 承認パチンコ / Approval Pachinko**
+A single themed pachinko machine on the booth floor. The ball represents a document; the pins and gates represent approvers, policies, and audit checks. In "Paper" mode (lever on the left) the ball bounces chaotically through all gates; in "CIS" mode (lever on the right) magnet-activated gates route the ball along the optimal path and the win-tray lights up. Pure spectacle, deeply Japanese, extremely filmable. 30 seconds per play, continuous throughput, zero reading required. Highest aisle-pull of any format in this document.
+
+**A3 — Hanko Pub Quiz / 承認トリビア・ナイト**
+An after-hours event at the booth on day 1 or day 2 of RTC. Teams of 4 compete on bilingual trivia about Japanese business culture (hanko etiquette, 稟議 history), compliance (SOX-J, J-SOX exceptions, audit cycles), and Hanko CIS features. Light drinks + snacks (budget permitting). Builds **relationships**, not just leads — most valuable for the enterprise and BU partnership funnel. One 90-minute slot, 1 host, 2 scorers.
+
+### 8.2 High-depth formats (for enterprise and exec visitors)
+
+**A4 — Compliance Clue / 承認ミステリー (Whodunit)**
+A whodunit tabletop game. The premise: a hanko on a ¥500M contract turns out to have been forged. Players are given a dossier (ten approvers, five policies, the contract, a partial audit log) and must identify **who forged**, **which policy they violated**, and **which audit control should have caught it**. The twist: at every impasse, a player can "spend" a Hanko CIS feature card to reveal a clue — making the point that CIS features are what *prevent* this scenario in production. 20 minutes, 3–5 players, 1 facilitator. Highest learning depth per minute of any format proposed.
+
+**A5 — Workflow Catan (co-op variant)**
+Settlers-of-Catan-style board where districts produce three resources: **trust tokens**, **evidence tokens**, and **approval tokens**. Players trade and build "approval routes" between districts. Unlike Monopoly, Catan is positive-sum — which maps better to the Hanko CIS story that *the whole org gets faster*, not that one BU wins. Alternative headline game for teams who dislike the zero-sum feel of Monopoly or want a more collaborative narrative for internal BU champions.
+
+**A6 — "Among Us" — Rogue Approver edition**
+Social-deduction hybrid (tabletop with a companion tablet app). Among 6 players, one is secretly the **Rogue Approver** trying to push a non-compliant document through. The others are **Compliance Officers** using Hanko CIS "audit tools" (role-reveal cards, delegation logs, policy snapshots) to catch them. Highly modern, Gen-Z and engineer-crowd friendly, extremely replayable. 10 minutes/round. Risk: rules take longer to learn than §3 formats — needs an energetic game master.
+
+### 8.3 Spectacle / high-throughput formats (pull from the aisle)
+
+**A7 — "Who Wants to Be a Hanko Millionaire" / ハンコ・ミリオネア**
+Gameshow format on a tall screen during the peak morning and post-lunch slots. 3 contestants per round, 15 questions escalating from *"What is a 稟議書?"* to *"In a 7-approver chain with 2 delegations and 1 policy override, who ultimately bears audit responsibility?"* MC with a mic, lifelines ("Ask the Audience" using crowd clickers, "Call a CIS Expert" = the Product SME), stingers and lighting. 10-minute rounds. The **crowd gathering is itself the pull**; the round is just the hook.
+
+**A8 — CIS Dojo (rhythm / arcade stamping)**
+Taiko-no-Tatsujin-style rhythm game. 55" LED screen, two giant physical "stamp" buttons (one 👍 *Approve*, one 👎 *Reject*). Workflow scenarios scroll by in time with music; the player slams the correct stamp in rhythm. Scoring rewards both accuracy *and* refusing the ones that should be refused (compliance literacy, not just reflexes). Pure physical joy, draws aisle crowds, bilingual-friendly, zero reading beyond the icon. 90 seconds per play.
+
+**A9 — Hanko Jenga**
+Each block is labeled with a workflow step (ex-ante policy check, delegation record, audit timestamp, approver signature, …). Visitors pull a block to "skip this step." Tower collapses = compliance violation. The game master then shows which steps Hanko CIS **makes safely skippable** (because the audit trail covers you) vs. which are structurally **load-bearing** (and why CIS enforces them). Fast (90s per round), tactile, memorable, extremely low cost.
+
+### 8.4 Conference-wide / phygital formats
+
+**A10 — Rakuten Hanko Hunt (AR treasure hunt across the venue)**
+A lightweight web app (no install) that visitors open via QR at our booth. They are given a 12-stamp "digital rally card." Each stamp is unlocked by scanning a QR hidden at **other sponsor booths and session rooms** across the venue — negotiated in advance with partner sponsors. Each scan reveals one Hanko CIS feature as a short animated card. Complete all 12 → return to our booth for a championship prize draw. Drives **repeat visits** to our booth and gives visitors a reason to stay engaged across the whole day. Needs ~2 weeks of pre-event coordination with partner sponsors.
+
+**A11 — Live multiplayer Hanko Street (tablet companion)**
+A digital companion to the §2 physical game. 4 tablets at a dedicated table running the same game logic as Hanko Street, so visitors who miss a physical seat can still play — and so visitors who can't make RTC in person can join remotely via a public URL during the event. Doubles total throughput for the headline format and extends reach into the Rakuten Tech social audience.
+
+### 8.5 Appendix-A trade-off summary
+
+| Code | Format | Best at | Throughput / hour | Floor space | Staff | Novelty |
+|---|---|---|---|---|---|---|
+| A1 | Hanko Karuta | Cultural fit, bilingual | ~30 | Small | 1 reader | Medium |
+| A2 | Approval Pachinko | Spectacle, filmability | ~90 | Small | 1 | **High** |
+| A3 | Hanko Pub Quiz | Relationships, BU/exec | one 90-min slot | Medium | 1 host + 2 | Medium |
+| A4 | Compliance Clue (whodunit) | Enterprise depth | ~15 | Medium | 1 facilitator | High |
+| A5 | Workflow Catan | Collaborative narrative | ~16 | Medium | 1 facilitator | Low |
+| A6 | Among Us: Rogue Approver | Engineer / Gen-Z crowd | ~24 | Small–Medium | 1 energetic GM | High |
+| A7 | Hanko Millionaire | Crowd gathering, social clips | ~24 contestants, large audience | Large (needs stage area) | 1 MC + 1 scorer | Medium |
+| A8 | CIS Dojo (rhythm) | Aisle pull, zero reading | ~40 | Small | 1 | **High** |
+| A9 | Hanko Jenga | Teaching which steps matter | ~40 | Small | 1 | Medium |
+| A10 | Hanko Hunt (venue-wide AR) | Repeat visits, cross-booth reach | ~200 unique players | n/a (phones) | 1 at base | **High** |
+| A11 | Live multiplayer Hanko Street | Overflow + remote reach | +~24 to Hanko Street | Small (tablet table) | 1 | Low |
+
+### 8.6 Expanded booth stack options
+
+Given the appendix, three concrete booth stacks worth evaluating alongside §7:
+
+- **Stack 1 — "Signature stack" (same as §7 recommendation):** Hanko Street + Stamp Rally + Trading Card Deck.
+- **Stack 2 — "Spectacle stack":** Approval Pachinko (A2) + CIS Dojo (A8) + Hanko Millionaire (A7) once per peak slot + Trading Card Deck. Highest aisle-pull and social-media output; weakest on structured learning.
+- **Stack 3 — "Depth stack":** Hanko Street + Compliance Clue (A4) at a reserved exec table + Hanko Pub Quiz (A3) after-hours on day 1. Highest learning depth per visitor; best for enterprise and BU partnership funnel.
+- **Stack 4 — "Phygital stack":** Hanko Street (one table) + Hanko Hunt (A10) across the venue + Live multiplayer Hanko Street (A11) tablets. Smallest booth footprint, largest unique reach, requires the most pre-event coordination.
+
+---
+
+## 9. Appendix B — If Hanko and CIS are two separate products
+
+The §1–§7 proposal reads *"Hanko CIS"* as a single named product. If the actual intent is to showcase **two distinct products side-by-side** — e.g. **Hanko** (a digital stamp / signature product) and **CIS** (a broader identity, approval, or common-information service) — the booth concept adapts cleanly rather than needing a rewrite:
+
+- **Hanko Street board:** split the eight districts into **two colour-coded halves** — four Hanko districts (document signing, delegated signature, mobile sign, audit trail of a signature) and four CIS districts (identity, policy, routing, cross-system approval). Insight Chips are visibly tagged with the product they came from. The win condition rewards players who collect chips from **both** products, teaching the pitch that *Hanko and CIS are better together*.
+- **Stamp Rally (§3 Alt A):** the six micro-stations split 3 Hanko / 3 CIS. The rally card graphically shows the two products meeting in the middle.
+- **Trading Card Deck (§3 Alt D):** two sub-decks in one box, with a cross-product combo mechanic (certain Hanko + CIS card pairs score bonus points).
+- **Insight-Chip taxonomy:** colour-code chips by product so the leaderboard can report *"Top Hanko player of the day"* and *"Top CIS player of the day"* alongside the overall champion. This gives each product's PM a clean metric to take back to their BU.
+- **Appendix-A formats:** Pachinko (A2), Dojo (A8), and Hunt (A10) all accommodate two-product theming trivially — split the gates, buttons, and treasure-hunt stamps 50/50.
+- **Lead capture:** the badge-scan screen asks a one-tap question — *"Which product do you want a follow-up on? Hanko / CIS / Both"* — so the two product teams get clean, separate pipelines out of a shared booth.
+
+If the two products have significantly different buyer personas (e.g. Hanko → legal / ops; CIS → IT / security), consider the **Depth Stack** (§8.6 Stack 3) with Compliance Clue reserved for the CIS persona and Hanko Pub Quiz themed heavily around signature etiquette for the Hanko persona.
+
+---
+
+## 10. Concept-selection helper
+
+A compact decision aid when the team sits down to pick the final booth stack.
+
+**Pick by primary audience:**
+- *External engineers and devs* → Hanko Street (§2) + CIS Dojo (A8) + Among Us: Rogue Approver (A6).
+- *Enterprise buyers, CFO/CRO, BU heads* → Hanko Street (§2) + Compliance Clue (A4) + Hanko Pub Quiz (A3).
+- *Partners, vendors, ecosystem* → Stamp Rally (§3 Alt A) + Trading Card Deck (§3 Alt D) + Hanko Hunt (A10).
+- *Mixed general RTC crowd* → §7 Signature Stack.
+
+**Pick by what we are optimising for:**
+- *Leads at scale* → Stamp Rally + Approval Pachinko (A2) + Trading Card Deck.
+- *Deep conversations with few, right people* → Hanko Street + Compliance Clue (A4).
+- *Social media and brand buzz* → Approval Pachinko (A2) + Hanko Millionaire (A7) + CIS Dojo (A8).
+- *Internal cross-BU champions* → Workflow Catan (A5) + Hanko Pub Quiz (A3).
+- *Reach beyond our booth* → Hanko Hunt (A10) + Live multiplayer Hanko Street (A11).
+
+**Pick by constraint:**
+- *Tiny booth (≤ 2m × 2m)* → Trading Card Deck (§3 Alt D) + Hanko Jenga (A9) + Hanko Karuta (A1).
+- *Small team (1–2 staff all day)* → Stamp Rally (§3 Alt A) + Trading Card Deck + Pachinko (A2, unmanned).
+- *Short lead time (< 4 weeks to RTC)* → Trading Card Deck + Hanko Jenga (A9) + Hanko Karuta (A1); skip the custom board.
+- *Need bilingual parity (JP/EN)* → anything in §8.1 plus Hanko Street (both are designed JP-first with English parity on the same card face).
+
+The one-line principle underneath all of this: **make the visitor physically feel the paper workflow lose**, then let them walk away with proof — a card, a chip, a leaderboard spot, a story. Pick the stack that delivers that outcome within your actual constraints, and the booth will do its job regardless of which format label is on the box.
